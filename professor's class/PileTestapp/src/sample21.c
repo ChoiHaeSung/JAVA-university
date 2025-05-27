@@ -1,0 +1,3 @@
+#define _CRT_SECURE_NO_WARNINGS\nAnother example text file.
+This one has different content.
+The Java program should add a prefix and save it as a new file.
